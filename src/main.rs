@@ -195,7 +195,7 @@ async fn main() {
                         for item in tips {
                             let mut tip = tip_clone.write().unwrap();
                             *tip =
-                                (item.landed_tips_50th_percentile * (10_f64).powf(9.0)) as u64;
+                                (item.landed_tips_25th_percentile * (10_f64).powf(9.0)) as u64;
                         }
                     }
                 }
