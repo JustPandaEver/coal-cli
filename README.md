@@ -59,7 +59,7 @@ cargo build --release
 
 
 ```sh
-coal --rpc url --cores cpucore --jito
+coal --rpc url --cores cpucore
 ```
 
 
