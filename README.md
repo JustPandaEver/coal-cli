@@ -1,9 +1,4 @@
 DONATE ME 
-```sh
-FqX4B7prPuZa1HjmJbWQtLH6GYYqUTT9wzWr55XQTbyE
-```
-
-OR
 
 ```sh
 0x6510cB12a2B6bb49cDbfbd23E6D40ba521f48f35
